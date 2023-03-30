@@ -8,14 +8,14 @@
 
 **Chuỗi kiến thức này hướng đến đối tượng nào?**: Thật ra không có tiêu chuẩn cho việc trả lời cho câu hỏi này. Già, Trẻ, Lớn, Bé vai vế bằng nhau nhưng với kinh nghiệm của mình thì để có thể đi tốt và làm quen dễ dàng với các bất kỳ thư viện hay framework nào của ngôn ngữ Javascript (JS) không riêng gì React thì điều kiện cần để cho thể học tốt công nghệ này là mình phải có một kiến thức nền tảng vững chắc về ngôn ngữ JS. Vì sao ư? vì vốn dĩ React cũng được xây dựng từ ngôn ngữ JS này mà ra cả. Cho nên việc có kiến thức nền tảng tốt về ngôn ngữ JS là hành trang đầu tiên mình nghĩ đến khi tư vấn cho bất kỳ ai có ý định bước chân nhảy vào học thư viện React này. Các cụ có câu "Trèo cao ngã đau", đúng vậy việc strong ngôn ngữ JS sẽ giúp bạn tự tin khởi đầu cho bất kỳ JS Framwork nào, còn bỏ qua bước này mà bạn cố gắng bước vào học khi bạn chưa có đủ kiến thức, việc bạn sẽ bị ngợp trước những kiến thức mới cũng chỉ là vấn đề thời gian.
 
-## Chốt: Yêu cầu về kiến thức
+## Chốt: Hành trang
 
 Kiến thức:
 
 1. HTML / CSS
 2. Javascript
 
-Thiết bị, nền tảng
+Thiết bị, nền tảng:
 
 1. RAM 8G trở lên, CPU core i5 trở lên code cho chiến nhé >.<
 2. Máy tính được cài đặt NodeJS, NPM ([Link tải](https://nodejs.org/en))
