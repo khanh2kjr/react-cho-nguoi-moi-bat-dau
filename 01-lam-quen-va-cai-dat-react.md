@@ -24,7 +24,7 @@ Hiện tại ta có hàng tá các thư viện và framework được viết b�
 - React được viết bởi Facebook và được open source vào năm 2013, nhắc đến Facebook thì mọi người đủ biết sự uy tín của thư viện này rồi nhé (Mặc dù Mark xoăn hay bị mang đi điều trần ở quốc hội về vấn đề bảo mật thông tin người dùng :v).
 - Dễ học và tiếp cận cho người mới vì có rất nhiều nguồn tài liệu trên mạng.
 - Cộng đồng học và làm việc với React rất đông đảo, có vấn đề hay gặp khó khăn chỉ cần hỏi là sẽ có rất nhiều người sẵn sàng giải đáp khúc mắc cho mình.
-- Luôn đứng đầu Top thư viên/framework được yêu thích, được tải, được dùng nhiều nhất trên NPM, Stackoverflow...
+- Luôn đứng đầu Hot trend, Top thư viện/framework được yêu thích, được tải, được dùng nhiều nhất trên NPM, Stackoverflow...
 - Thị trường tuyển dụng liên quan đến React rất là nhiều (ITviec, TopCV, Vietnamworks...).
 
 ## Cài đặt và thiết lập
