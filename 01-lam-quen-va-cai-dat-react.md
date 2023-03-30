@@ -27,6 +27,8 @@ Hiện tại ta có hàng tá các thư viện và framework được viết b�
 - Luôn đứng đầu Hot trend, Top thư viện/framework được yêu thích, được tải, được dùng nhiều nhất trên NPM, Stackoverflow...
 - Thị trường tuyển dụng liên quan đến React rất là nhiều (ITviec, TopCV, Vietnamworks...).
 
+<img src="https://www.boardinfinity.com/blog/content/images/2022/08/Untitled.png" />
+
 ## Cài đặt và thiết lập
 
 updating...
