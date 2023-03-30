@@ -23,9 +23,9 @@ Thiết bị, nền tảng:
 
 ## Dưới đây là danh sách các chủ đề về React mà mình sẽ dưới thiệu:
 
-| #   |              Chủ đề              |
-| --- | :------------------------------: |
-| 01  | [React là gì?](./react-la-gi.md) |
+| #   |                             Chủ đề                             |
+| --- | :------------------------------------------------------------: |
+| 01  | [Làm quen và cài đặt React](./01-lam-quen-va-cai-dat-react.md) |
 
 ## Follow mình trên:
 
