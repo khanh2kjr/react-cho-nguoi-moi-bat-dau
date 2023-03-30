@@ -2,7 +2,7 @@
 
 # Tác giả: Nguyễn Văn Khánh (khanh2kjr)
 
-# 📔 Chủ đề 1: Giới thiệu
+# 📔 Giới thiệu
 
 **Who Am I?**: Xin tự giới thiệu các bạn tên mình là Khánh, đã gần 23 tuổi rồi nhưng vẫn ăn mặc như 1 đứa con nít. Thân hình không quá ốm, cũng không quá ục ịch. Luôn muốn ca, luôn muốn code luôn làm những thứ mà mình thích. Okeee thì mình là một Software Engineer đã có khoảng gần 2 năm kinh nghiệm trong ngành lập trình, hiện tại đang sinh sống và làm việc tại Hà Nội. Sau hơn 1 năm đầu quân tại MOR Software JSC cũng như gần 2 năm kinh nghiệm của mình, mình tự tin là có đủ hành trang kiến thức và ít nhiều việc tiếp xúc với React trong các dự án thực tế cho nên ngày hôm nay với tinh thần chia sẻ kiến thức đến với cộng đồng, rất mong sự đón nhận của mọi người. Đây là lần đầu tiên mình viết docs cũng như chia sẻ các kiến thức chuyên ngành, nếu có gì sai sót rất mong nhận được sự đánh giá từ mọi người. Nếu mọi người thấy hay thì cho mình xin một star trên github nhaaaa.
 
