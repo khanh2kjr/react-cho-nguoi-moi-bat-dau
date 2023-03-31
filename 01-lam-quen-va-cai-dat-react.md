@@ -80,7 +80,7 @@ npm run dev
 
 Kết quả:
 
-<div style="border: 2px solid; width: max-content">
+<div style="border: 2px solid; width: max-content; padding: 2px; height: max-content">
   <img src="./img/demo-vite.png" />
 </div>
 
