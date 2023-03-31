@@ -1,5 +1,3 @@
-[Chủ đề 2 >>](./02-component.md)
-
 # 📔 Chủ đề 1: Làm quen và cài đặt React
 
 ## React là gì?
@@ -27,8 +25,63 @@ Hiện tại ta có hàng tá các thư viện và framework được viết b�
 - Luôn đứng đầu Hot trend, Top thư viện/framework được yêu thích, được tải, được dùng nhiều nhất trên NPM, Stackoverflow...
 - Thị trường tuyển dụng liên quan đến React rất là nhiều (ITviec, TopCV, Vietnamworks...).
 
-<img src="https://www.boardinfinity.com/blog/content/images/2022/08/Untitled.png" />
-
 ## Cài đặt và thiết lập
 
-updating...
+- Sử dụng link CDN
+
+```js
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>React cho người mới bắt đầu</title>
+</head>
+<body>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script>
+    console.log(React)
+  </script>
+</body>
+</html>
+```
+
+- Sử dụng Create React App: đây là trình tạo boilerplate cho một dự án React App mà rất mất ít công sức được phát triển bởi React Core Team.
+
+```sh
+npx create react app my-app
+cd my-app
+npm run start
+```
+
+- Sử dụng Vite (Nên dùng): Vite là một front-end Build Tool cho các thư viện, JS framework, nó được biết đến là một Build Tool rất mạnh mẽ và nhanh. Ban đầu, Vite chỉ được dành riêng cho VueJS, về sau hỗ trợ cả những thư viện, framework khác trong đó có React
+
+```sh
+npm create vite@latest
+```
+
+Sau khi chạy xong câu lệnh trên thì ở cửa sổ terminal sẽ hiển thị các config cho dự án Vite.
+
+- Đầu tiên là nhập tên dự án
+- Chọn công nghệ, ở đây thì ta chọn React
+- Chọn ngôn ngữ, ở đây sẽ list ra những ngôn ngữ Javascript, Typescript... nhưng phạm vi chuỗi bài này thì ta chọn Javascript làm ngôn ngữ chính.
+<div>
+  <img src="./img/create-vite.png" />
+</div>
+<div>Để có thể chạy dự án ta thực thi các câu lệnh sau:</div>
+
+```sh
+cd my-app
+npm install
+npm run dev
+```
+
+Kết quả:
+
+<div>
+  <img src="./img/demo-vite.png" />
+</div>
+
+[Chủ đề 2 - Component >>](./02-component.md)
