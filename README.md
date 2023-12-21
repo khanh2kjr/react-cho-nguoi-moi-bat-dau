@@ -26,6 +26,7 @@ Thiết bị, nền tảng:
 | #   |                             Chủ đề                             |
 | --- | :------------------------------------------------------------: |
 | 01  | [Làm quen và cài đặt React](./01-lam-quen-va-cai-dat-react.md) |
+| 02  |                  [Component](./component.md)                   |
 
 ## Follow mình trên:
 
